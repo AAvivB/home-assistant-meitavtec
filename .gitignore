@@ -1,0 +1,29 @@
+# Python bytecode and local caches
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+
+# Test, type-checker, and coverage output
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local secrets and environment configuration
+.env
+.env.*
+!.env.example
+secrets.yaml
+configuration.yaml
