@@ -1,0 +1,14 @@
+This repository contains code adapted from:
+
+* Home Assistant Core, including its Electra Smart integration:
+  https://github.com/home-assistant/core
+* pyElectra by jafar-atili:
+  https://github.com/jafar-atili/pyElectra
+
+Those projects are distributed under the Apache License, Version 2.0.
+The Meitav Tec-specific adaptations in this repository are also made
+available under the Apache License, Version 2.0; see LICENSE.
+
+Home Assistant and Meitav Tec are trademarks of their respective owners.
+This project is an independent community integration and is not endorsed
+by either organization.

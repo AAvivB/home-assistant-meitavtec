@@ -1,0 +1,9 @@
+{
+  "domain": "meitav_tec",
+  "name": "Meitav Tec",
+  "codeowners": ["@AAvivB", "@jafar-atili"],
+  "config_flow": true,
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "version": "1.0.0"
+}
